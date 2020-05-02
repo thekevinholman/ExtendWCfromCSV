@@ -1,0 +1,6 @@
+FQDN,TIER,GROUPID,OWNER
+SCOMA1.opsmgr.net,1,SCOM,kevinhol
+scoma2.opsmgr.net,1,SCOM,kevinhol
+SQL2A.opsmgr.net,2,SQL,sqladmin
+ws2003x64.opsmgr.net,2,SERVER,serveradmin
+ws2008r2.opsmgr.net,3,SERVER,serveradmin
